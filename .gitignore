@@ -1,0 +1,7 @@
+*.log
+
+# css ignoré car scss utilisé
+*.css*
+#autres fichiers poluants
+.DS_Store
+/.VSCode/
